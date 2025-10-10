@@ -7,3 +7,4 @@ Refactor codebase with Z [4oMrMm] line 9.3
 Fix issue in Y [c1o4nN] line 11.1
 Update documentation [wySG1N] line 1.1
 Fix issue in Y [m5kS97] line 9.3
+Fix issue in Y [Y0UKaX] line 11.1
