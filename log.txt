@@ -4,3 +4,4 @@ Add feature for X [a3hYWo] line 4.1
 Add feature for X [XEMGay] line 6.3
 Add feature for X [2J3Ea1] line 7.2
 Update documentation [942AB6] line 8.1
+Fix issue in Y [LugGU4] line 2.1
