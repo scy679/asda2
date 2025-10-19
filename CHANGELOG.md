@@ -11,3 +11,4 @@ Add feature for X [gGbWeK] line 4.1
 Add feature for X [gGbWeK] line 4.2
 Add test case for W [RvR1Iz] line 5.3
 Update documentation [jgnxdv] line 6.1
+Fix issue in Y [m5kS97] line 9.1
