@@ -5,3 +5,5 @@ Add feature for X [2J3Ea1] line 7.1
 Update documentation [942AB6] line 8.3
 Refactor codebase with Z [4oMrMm] line 9.1
 Refactor codebase with Z [4oMrMm] line 9.2
+Fix issue in Y [c1o4nN] line 11.2
+Fix issue in Y [c1o4nN] line 11.3
